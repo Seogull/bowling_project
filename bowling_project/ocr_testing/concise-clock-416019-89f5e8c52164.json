@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "concise-clock-416019",
+  "private_key_id": "89f5e8c52164eeb3f8e937d318374fba29b7c82f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr6Xdm2Dz2ws68\nWgDOZYhYVV83lUTXdlzgWXQseyDXdxrsjyxPgcUeDhDoJ0u4ph+P/8y9hvalIE1K\ngiz4P0an8RpOHIAat2EPD2imCCL55zmLt2g0SPvyLvQxgVNDKV0ammH0r2l676iZ\naB4dXoSTmBNq2MYROcOUiJxl0tkvN6iPndLdDfG46Od9NaLlnTvjaEk3kaNHwokq\nCS2Yl7WyBXC7nY0oWygTeidM0zJSnt9a9+qGc0qhKOSpomlybfREmp4dOCgn6EdI\nGFYrakEeECGNQkWOxML2pMMHzgWu04n6fziqyi4A1VKsR5Lgqq3FHDuywZPgIOHP\n4upYUWLJAgMBAAECggEACokp7K8m+VaSFgAMGZomY4eD6OOoju3tnkBNOuam6h2e\nFE5oAE1rN77T8W5rGRtxRsF+GkV5u0ACDKVyvRofqe5AVvYvMbP4alRe7QIFprwx\njisE42NvsXWIOLp80FpqHtXEWBsiA0tJ0XEMm28t/9+rnPpBFVAteN5we1sTPW35\nmNEDOLUkbr4C3S7JaC5cK4G0Kz6VBV01ayr9UJPFMmd+Val41TQtm3mjOgX9iETE\nBgvK9Ycz/xHr7QmxBvlFchrwU+r4YyWwr2LP8pzX0U2Y0TrFDV1opwt+fslgkX50\nJnHYHLYTExDusrZIR/NMIKBd8Kunf3ZR+dYrp9UDCQKBgQDXsDe6CgJf6umABpyJ\negbN5UESsUarqSYrnc4qQhKuuRA1+k81S2SEGoE7cBawF5wnlDQSDhz62ljoWo7u\nThJwsEcIU2d7VgXIQztG867WnYXMfoscYGipbbebSJr3pWK8BV0s8FZXedukVfC2\nv1q/6m8wRCD402+EkR3/uFvtLQKBgQDMCrupXbbCKBf30L6aVKAQPnjRL5gq9pXQ\neT4jI3X3wpP7vbea95KuUe8He2VgZsdse6meEQJN+X0Yg9/yCHQW+rIUYRukblKO\ngJPN5Fhv0Jl+dz0eRgI6toVbWyPtMEl4NK3hoF9Du1W7fWEnY4exsPXcKzAA3LXc\nlPba4bFljQKBgC94gUtY2JzzvuCGk/1N9iFqy5+plLxDRjtjR/TVBfeek4rNxJEe\nPsk0bC0Axn2LNLshSzSOFqK/W8IH7F1WoYhbw8Z5VNU4YZ1p7qn3CAwEL2aKk2Nz\ndJWVqEts92553/kx1QgG/XnTQBwzLf+KrhZ/KmmdFQSuxGSQ6+FUWichAoGAHTQc\nD+2dzsQ2Sf3Sifw6vJh0alxJhzyrzJ7NyfG1XLS4wXsx4Dg3AkQv1f5PUDDlsh0w\n9bKxhb+DrBKT5uxW0UMoYcpUToCLyGGWxg08qyRME9G1KbQTdZvSEnVE+xnCKjY/\n/N8bQ3J4ntEfKqgQL9qIFe8Ie9cbIGshuco7vbECgYBpcxHWhTJTyYqtaSYPapF+\nsotQpH+m88iiTRNLx6+yQUFepScvsMreQaHtwl1hi4nFF9qo3DubSSgMXNixNXH+\nG4YV4xcvGSklnKRpabe9jnq1xNtPaXwL0BMhkBjirGi8epk6eD5Jb/uwWSwAExS2\nzz3u+gabj5OfaAaQRnuTRw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bowling@concise-clock-416019.iam.gserviceaccount.com",
+  "client_id": "104630853400153426344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bowling%40concise-clock-416019.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
