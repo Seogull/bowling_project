@@ -20,14 +20,21 @@ firstDate = df['Dates'].iloc[0].strftime('%Y-%m-%d')  # Ensuring firstDate is a 
 lastDate = None
 all_scores = []
 total_averages = []
+#iterate thru each row in the dataframe
 for index, row in df.iterrows():
+    #set the row we are currently iterrating as the current date
     currentDate = row['Dates'].strftime('%Y-%m-%d')
     scoreOnCurrentDate = row['Dad']
+    #checking if current date is the first row
+    #set current date as the last date
     if(lastDate == None):
         all_scores.append(scoreOnCurrentDate)
         lastDate = currentDate
+    # else if the current date is the same as the last, contine appending
     elif(currentDate == lastDate):
         all_scores.append(scoreOnCurrentDate)
+    #if the current date is different, calculate the average of 
+    #all previous scores and set that as the average for current date
     else:
         tempAverage = round(sum(all_scores)/len(all_scores))
         total_averages.append(tempAverage)
